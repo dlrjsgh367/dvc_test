@@ -1,4 +1,0 @@
-[core]
-    remote = kosyas
-['remote "kosyas"']
-    url = s3://koreanssamaidev/kosyas
